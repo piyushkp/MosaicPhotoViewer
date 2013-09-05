@@ -1,0 +1,8 @@
+D:\Projects\lance\Mosaic_Photo_Viewer\Code\Window Service\PhotoCtmService\PhotoCtmService\bin\Debug\PhotoCtmService.exe.config
+D:\Projects\lance\Mosaic_Photo_Viewer\Code\Window Service\PhotoCtmService\PhotoCtmService\bin\Debug\PhotoCtmService.exe
+D:\Projects\lance\Mosaic_Photo_Viewer\Code\Window Service\PhotoCtmService\PhotoCtmService\bin\Debug\PhotoCtmService.pdb
+D:\Projects\lance\Mosaic_Photo_Viewer\Code\Window Service\PhotoCtmService\PhotoCtmService\obj\x86\Debug\PhotoCtmService.PhotoCtmService.resources
+D:\Projects\lance\Mosaic_Photo_Viewer\Code\Window Service\PhotoCtmService\PhotoCtmService\obj\x86\Debug\PhotoCtmService.ProjectInstaller.resources
+D:\Projects\lance\Mosaic_Photo_Viewer\Code\Window Service\PhotoCtmService\PhotoCtmService\obj\x86\Debug\PhotoCtmService.csproj.GenerateResource.Cache
+D:\Projects\lance\Mosaic_Photo_Viewer\Code\Window Service\PhotoCtmService\PhotoCtmService\obj\x86\Debug\PhotoCtmService.exe
+D:\Projects\lance\Mosaic_Photo_Viewer\Code\Window Service\PhotoCtmService\PhotoCtmService\obj\x86\Debug\PhotoCtmService.pdb

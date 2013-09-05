@@ -1,0 +1,9 @@
+D:\Projects\lance\Mosaic_Photo_Viewer\Code\Window Service\PhotoCtmService\PhotoCtmService\bin\Release\PhotoCtmService.exe.config
+D:\Projects\lance\Mosaic_Photo_Viewer\Code\Window Service\PhotoCtmService\PhotoCtmService\bin\Release\PhotoCtmService.exe
+D:\Projects\lance\Mosaic_Photo_Viewer\Code\Window Service\PhotoCtmService\PhotoCtmService\bin\Release\PhotoCtmService.pdb
+D:\Projects\lance\Mosaic_Photo_Viewer\Code\Window Service\PhotoCtmService\PhotoCtmService\obj\x86\Release\PhotoCtmService.PhotoCtmService.resources
+D:\Projects\lance\Mosaic_Photo_Viewer\Code\Window Service\PhotoCtmService\PhotoCtmService\obj\x86\Release\PhotoCtmService.ProjectInstaller.resources
+D:\Projects\lance\Mosaic_Photo_Viewer\Code\Window Service\PhotoCtmService\PhotoCtmService\obj\x86\Release\PhotoCtmService.csproj.GenerateResource.Cache
+D:\Projects\lance\Mosaic_Photo_Viewer\Code\Window Service\PhotoCtmService\PhotoCtmService\obj\x86\Release\PhotoCtmService.exe
+D:\Projects\lance\Mosaic_Photo_Viewer\Code\Window Service\PhotoCtmService\PhotoCtmService\obj\x86\Release\PhotoCtmService.pdb
+D:\Projects\lance\Mosaic_Photo_Viewer\Code\Window Service\PhotoCtmService\PhotoCtmService\obj\x86\Release\PhotoCtmService.csprojResolveAssemblyReference.cache

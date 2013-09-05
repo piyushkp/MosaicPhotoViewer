@@ -1,0 +1,15 @@
+P:\extra\ImageMosaic-master\ImageMosaic\bin\Release\ImageMosaic.dll
+P:\extra\ImageMosaic-master\ImageMosaic\bin\Release\ImageMosaic.pdb
+P:\extra\ImageMosaic-master\ImageMosaic\obj\Release\ImageMosaic.dll
+P:\extra\ImageMosaic-master\ImageMosaic\obj\Release\ImageMosaic.pdb
+P:\extra\ImageMosaic-master\ImageMosaic\obj\Release\ImageMosaic.csprojResolveAssemblyReference.cache
+P:\Project 2013\elance\Mosaic_Photo_Viewer\Code\ImageMosaic-master\ImageMosaic\bin\Release\ImageMosaic.dll
+P:\Project 2013\elance\Mosaic_Photo_Viewer\Code\ImageMosaic-master\ImageMosaic\bin\Release\ImageMosaic.pdb
+P:\Project 2013\elance\Mosaic_Photo_Viewer\Code\ImageMosaic-master\ImageMosaic\obj\Release\ImageMosaic.dll
+P:\Project 2013\elance\Mosaic_Photo_Viewer\Code\ImageMosaic-master\ImageMosaic\obj\Release\ImageMosaic.pdb
+P:\Project 2013\elance\Mosaic_Photo_Viewer\Code\ImageMosaic-master\ImageMosaic\obj\Release\ImageMosaic.csprojResolveAssemblyReference.cache
+D:\Projects\elance\Mosaic_Photo_Viewer\Code\ImageMosaic-master\ImageMosaic\bin\Release\ImageMosaic.dll
+D:\Projects\elance\Mosaic_Photo_Viewer\Code\ImageMosaic-master\ImageMosaic\bin\Release\ImageMosaic.pdb
+D:\Projects\elance\Mosaic_Photo_Viewer\Code\ImageMosaic-master\ImageMosaic\obj\Release\ImageMosaic.dll
+D:\Projects\elance\Mosaic_Photo_Viewer\Code\ImageMosaic-master\ImageMosaic\obj\Release\ImageMosaic.pdb
+D:\Projects\elance\Mosaic_Photo_Viewer\Code\ImageMosaic-master\ImageMosaic\obj\Release\ImageMosaic.csprojResolveAssemblyReference.cache

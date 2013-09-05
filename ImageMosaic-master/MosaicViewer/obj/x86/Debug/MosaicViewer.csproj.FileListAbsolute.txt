@@ -1,0 +1,21 @@
+P:\extra\ImageMosaic-master\MosaicViewer\bin\Debug\MosaicViewer.exe
+P:\extra\ImageMosaic-master\MosaicViewer\bin\Debug\MosaicViewer.pdb
+P:\extra\ImageMosaic-master\MosaicViewer\bin\Debug\ImageMosaic.dll
+P:\extra\ImageMosaic-master\MosaicViewer\bin\Debug\ImageMosaic.pdb
+P:\extra\ImageMosaic-master\MosaicViewer\obj\x86\Debug\MosaicViewer.Properties.Resources.resources
+P:\extra\ImageMosaic-master\MosaicViewer\obj\x86\Debug\MosaicViewer.csproj.GenerateResource.Cache
+P:\extra\ImageMosaic-master\MosaicViewer\obj\x86\Debug\MosaicViewer.exe
+P:\extra\ImageMosaic-master\MosaicViewer\obj\x86\Debug\MosaicViewer.pdb
+P:\extra\ImageMosaic-master\MosaicViewer\obj\x86\Debug\MosaicViewer.Form1.resources
+P:\extra\ImageMosaic-master\MosaicViewer\obj\x86\Debug\MosaicViewer.csprojResolveAssemblyReference.cache
+P:\Project 2013\elance\Mosaic_Photo_Viewer\Code\ImageMosaic-master\MosaicViewer\bin\Debug\MosaicViewer.exe.config
+P:\Project 2013\elance\Mosaic_Photo_Viewer\Code\ImageMosaic-master\MosaicViewer\obj\x86\Debug\MosaicViewer.exe
+P:\Project 2013\elance\Mosaic_Photo_Viewer\Code\ImageMosaic-master\MosaicViewer\obj\x86\Debug\MosaicViewer.pdb
+P:\Project 2013\elance\Mosaic_Photo_Viewer\Code\ImageMosaic-master\MosaicViewer\bin\Debug\MosaicViewer.exe
+P:\Project 2013\elance\Mosaic_Photo_Viewer\Code\ImageMosaic-master\MosaicViewer\bin\Debug\MosaicViewer.pdb
+P:\Project 2013\elance\Mosaic_Photo_Viewer\Code\ImageMosaic-master\MosaicViewer\bin\Debug\ImageMosaic.dll
+P:\Project 2013\elance\Mosaic_Photo_Viewer\Code\ImageMosaic-master\MosaicViewer\bin\Debug\ImageMosaic.pdb
+P:\Project 2013\elance\Mosaic_Photo_Viewer\Code\ImageMosaic-master\MosaicViewer\obj\x86\Debug\MosaicViewer.csprojResolveAssemblyReference.cache
+P:\Project 2013\elance\Mosaic_Photo_Viewer\Code\ImageMosaic-master\MosaicViewer\obj\x86\Debug\MosaicViewer.MosaicViewer.resources
+P:\Project 2013\elance\Mosaic_Photo_Viewer\Code\ImageMosaic-master\MosaicViewer\obj\x86\Debug\MosaicViewer.Properties.Resources.resources
+P:\Project 2013\elance\Mosaic_Photo_Viewer\Code\ImageMosaic-master\MosaicViewer\obj\x86\Debug\MosaicViewer.csproj.GenerateResource.Cache

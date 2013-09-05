@@ -1,0 +1,23 @@
+﻿Installing assembly 'D:\Projects\lance\Mosaic_Photo_Viewer\Code\Window Service\PhotoCtmService\PhotoCtmService\bin\Debug\PhotoCtmService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\lance\Mosaic_Photo_Viewer\Code\Window Service\PhotoCtmService\PhotoCtmService\bin\Debug\PhotoCtmService.InstallLog
+   assemblypath = D:\Projects\lance\Mosaic_Photo_Viewer\Code\Window Service\PhotoCtmService\PhotoCtmService\bin\Debug\PhotoCtmService.exe
+   logtoconsole = 
+Installing service PhotoCtmService...
+Service PhotoCtmService has been successfully installed.
+Creating EventLog source PhotoCtmService in log Application...
+Committing assembly 'D:\Projects\lance\Mosaic_Photo_Viewer\Code\Window Service\PhotoCtmService\PhotoCtmService\bin\Debug\PhotoCtmService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\lance\Mosaic_Photo_Viewer\Code\Window Service\PhotoCtmService\PhotoCtmService\bin\Debug\PhotoCtmService.InstallLog
+   assemblypath = D:\Projects\lance\Mosaic_Photo_Viewer\Code\Window Service\PhotoCtmService\PhotoCtmService\bin\Debug\PhotoCtmService.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\Projects\lance\Mosaic_Photo_Viewer\Code\Window Service\PhotoCtmService\PhotoCtmService\bin\Debug\PhotoCtmService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\lance\Mosaic_Photo_Viewer\Code\Window Service\PhotoCtmService\PhotoCtmService\bin\Debug\PhotoCtmService.InstallLog
+   assemblypath = D:\Projects\lance\Mosaic_Photo_Viewer\Code\Window Service\PhotoCtmService\PhotoCtmService\bin\Debug\PhotoCtmService.exe
+Removing EventLog source PhotoCtmService.
+Service PhotoCtmService is being removed from the system...
+Service PhotoCtmService was successfully removed from the system.

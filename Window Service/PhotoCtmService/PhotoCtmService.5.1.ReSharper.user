@@ -1,0 +1,112 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/f:Program.cs" caret="0" fromTop="0" />
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/d:Service References/d:PhotoCtmDownload/f:Reference.cs" caret="1478" fromTop="26" />
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/f:PhotoCTMDownloader.cs" caret="3216" fromTop="16" />
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/f:PhotoCtmService.cs" caret="1986" fromTop="4" />
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/f:app.config" caret="759" fromTop="22" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/f:PhotoCTMDownloader.cs" caret="885" fromTop="20" />
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/f:app.config" caret="566" fromTop="16" />
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/f:PhotoCTMDownloader.cs" caret="962" fromTop="20" />
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/f:PhotoCTMDownloader.cs" caret="1522" fromTop="31" />
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/f:PhotoCTMDownloader.cs" caret="4682" fromTop="40" />
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/f:PhotoCTMDownloader.cs" caret="2102" fromTop="32" />
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/f:PhotoCTMDownloader.cs" caret="2235" fromTop="32" />
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/f:PhotoCTMDownloader.cs" caret="4688" fromTop="25" />
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/f:PhotoCTMDownloader.cs" caret="4192" fromTop="6" />
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/f:PhotoCTMDownloader.cs" caret="1407" fromTop="36" />
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/f:PhotoCTMDownloader.cs" caret="1459" fromTop="36" />
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/f:PhotoCTMDownloader.cs" caret="1332" fromTop="28" />
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/f:app.config" caret="788" fromTop="21" />
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/f:PhotoCTMDownloader.cs" caret="2701" fromTop="27" />
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/f:PhotoCTMDownloader.cs" caret="3912" fromTop="20" />
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/f:PhotoCtmService.cs" caret="1184" fromTop="28" />
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/f:PhotoCtmService.cs" caret="1012" fromTop="33" />
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/d:Service References/d:PhotoCtmDownload/f:Reference.cs" caret="1181" fromTop="21" />
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/d:Service References/d:PhotoCtmDownload/f:Reference.cs" caret="1478" fromTop="26" />
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/f:PhotoCTMDownloader.cs" caret="0" fromTop="0" />
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/f:PhotoCTMDownloader.cs" caret="351" fromTop="17" />
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/f:PhotoCTMDownloader.cs" caret="3750" fromTop="19" />
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/f:PhotoCTMDownloader.cs" caret="4252" fromTop="15" />
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/f:PhotoCTMDownloader.cs" caret="3550" fromTop="29" />
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/f:PhotoCTMDownloader.cs" caret="3216" fromTop="16" />
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/f:PhotoCtmService.cs" caret="1184" fromTop="21" />
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/f:PhotoCtmService.cs" caret="1923" fromTop="17" />
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/f:PhotoCtmService.cs" caret="1640" fromTop="21" />
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/f:PhotoCtmService.cs" caret="1501" fromTop="16" />
+      <File id="8DBDFBA7-3F60-4B34-AD19-7CE94DB480F5/f:PhotoCtmService.cs" caret="2399" fromTop="29" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="using" priority="3" />
+      <Item value="System" priority="7" />
+      <Item value="IO" priority="0" />
+      <Item value="Timers" priority="0" />
+      <Item value="Timer`0" priority="0" />
+      <Item value="new" priority="1" />
+      <Item value="Timer" priority="0" />
+      <Item value="public" priority="2" />
+      <Item value="Void`0" priority="1" />
+      <Item value="Data" priority="0" />
+      <Item value="Configuration" priority="2" />
+      <Item value="private" priority="0" />
+      <Item value="const" priority="1" />
+      <Item value="ConfigurationSettings`0" priority="2" />
+      <Item value="Assemblies" priority="0" />
+      <Item value="ConfigurationManager`0" priority="1" />
+      <Item value="Int32`0" priority="1" />
+      <Item value="Convert`0" priority="0" />
+      <Item value="int" priority="0" />
+      <Item value="month" priority="1" />
+      <Item value="year" priority="1" />
+      <Item value="pid" priority="1" />
+      <Item value="eid" priority="0" />
+      <Item value="date" priority="0" />
+      <Item value="try" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="File`0" priority="0" />
+      <Item value="filepath" priority="0" />
+      <Item value="PhotoCTMDownloader`0" priority="0" />
+      <Item value="PhotoCTMDownloader" priority="0" />
+      <Item value="objDownloader" priority="0" />
+      <Item value="PhotoCtmDownload" priority="0" />
+      <Item value="utlSoap`0" priority="0" />
+      <Item value="protected" priority="0" />
+      <Item value="void" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Configuration.ConfigurationSettings">
+      <Item value="AppSettings" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToInt32`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PhotoCtmService.PhotoCTMDownloader">
+      <Item value="DownloadImages`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

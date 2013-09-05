@@ -1,0 +1,8 @@
+P:\extra\ImageMosaic-master\ImageMosaic\bin\Debug\ImageMosaic.dll
+P:\extra\ImageMosaic-master\ImageMosaic\bin\Debug\ImageMosaic.pdb
+P:\extra\ImageMosaic-master\ImageMosaic\obj\Debug\ImageMosaic.dll
+P:\extra\ImageMosaic-master\ImageMosaic\obj\Debug\ImageMosaic.pdb
+P:\Project 2013\elance\Mosaic_Photo_Viewer\Code\ImageMosaic-master\ImageMosaic\bin\Debug\ImageMosaic.dll
+P:\Project 2013\elance\Mosaic_Photo_Viewer\Code\ImageMosaic-master\ImageMosaic\bin\Debug\ImageMosaic.pdb
+P:\Project 2013\elance\Mosaic_Photo_Viewer\Code\ImageMosaic-master\ImageMosaic\obj\Debug\ImageMosaic.dll
+P:\Project 2013\elance\Mosaic_Photo_Viewer\Code\ImageMosaic-master\ImageMosaic\obj\Debug\ImageMosaic.pdb
